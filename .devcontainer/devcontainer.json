@@ -1,5 +1,5 @@
 {
-  "name": "VLSI Codespace RTL design and synthesis",
+  "name": "OpenROAD cloud tools",
   "build": {
     "dockerfile": "Dockerfile"
   },
@@ -11,7 +11,7 @@
     }
   },
   "overrideCommand": false,
-  "remoteUser": "root",
+  "remoteUser": "vscode",
   "containerEnv": {
     "DISPLAY": ":1"
   }
