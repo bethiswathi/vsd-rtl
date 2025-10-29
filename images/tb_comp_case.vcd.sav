@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Wed Oct 29 05:52:01 2025
+[*]
+[dumpfile] "/workspaces/vsd-rtl/sky130RTLDesignAndSynthesisWorkshop/verilog_files/tb_good_mux.vcd"
+[dumpfile_mtime] "Wed Oct 29 05:31:08 2025"
+[dumpfile_size] 833
+[optimize_vcd]
+[savefile] "/workspaces/vsd-rtl/images/tb_comp_case.vcd.sav"
+[timestart] 74500
+[size] 1000 600
+[pos] -1 -1
+*-15.512034 114200 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_good_mux.
+[sst_width] 228
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 151
+@28
+tb_good_mux.uut.i0
+tb_good_mux.uut.i1
+tb_good_mux.uut.sel
+@29
+tb_good_mux.uut.y
+[pattern_trace] 1
+[pattern_trace] 0
